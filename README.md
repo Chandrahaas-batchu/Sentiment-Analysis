@@ -1,5 +1,5 @@
 # Sentiment-Analysis
-Deep Learning, NLP, Keras 
+Deep Learning, NLP, Keras, CNN, dropout
 
 
 #Sentiment Analysis On Letter-Basis
