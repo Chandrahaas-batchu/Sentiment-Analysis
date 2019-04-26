@@ -8,7 +8,7 @@ This notebook illustrates how to predict the sentiment of a text by using a sequ
 The dataset consists of Amazon Reviews and their corresponding positive or negative assessment.
 
 
-#Content
+# Content
 The fastText supervised learning tutorial requires data in the following format:
 __label__<X> __label__<Y> ... <Text>
 
@@ -24,7 +24,7 @@ The review titles, followed by ':' and a space, are prepended to the text.
 
 Most of the reviews are in English, but there are a few in other languages, like Spanish.
 
-#Source
+# Source
 
 The data was lifted from Xiang Zhang's Google Drive dir, but it was in .csv format, not suitable for fastText.
 
